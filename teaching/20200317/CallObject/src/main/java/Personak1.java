@@ -8,8 +8,6 @@
  *
  * @author H708
  */
-public class obj1 {
-    public static void main(String[] args) {
-        System.out.println("OBJ1");
-    }
+public class Personak1 {
+    
 }

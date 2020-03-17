@@ -10,6 +10,7 @@
  */
 public class objdemo1 {
     public static void main(String[] args) {
+        obj1 ol = new obj1();
         
     }
 }
