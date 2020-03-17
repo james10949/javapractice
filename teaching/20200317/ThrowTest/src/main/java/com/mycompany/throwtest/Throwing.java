@@ -10,5 +10,10 @@ package com.mycompany.throwtest;
  * @author H708
  */
 public class Throwing {
-    
+    public static void main(String[] args) {
+        ThrowObject to = new ThrowObject(1200,45);
+        System.out.println(to.getX(1));
+        System.out.println(to.getY(1));
+        to.traceXY();
+    }
 }
